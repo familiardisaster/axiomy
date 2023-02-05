@@ -1,5 +1,4 @@
 """A simple Python wrapper to create, select, scan with, and delete Axiom fleets."""
-#https://twitter.com/similardisaster
 #----------------------------------------------------------------------------------------------------------------------------------#
 from shutil import which
 from textwrap import dedent
